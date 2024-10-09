@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.16.7"
+  },
+  "name": "advanto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "cd backend && npm start",
+    "dev" : "cd frontend && npm run dev",
+    "installBackend": "cd backend && npm i",
+    "installFrontend": "cd frontend && npm i"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
